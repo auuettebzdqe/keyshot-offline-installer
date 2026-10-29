@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-3D+Rendering-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 KeyShot Free Installer** — KeyShot is a real-time 3D rendering and animation software used by product designers and industrial designers worldwide. Works without internet access, no account required. Full offline installation.
+**💻 KeyShot Free Installer** — KeyShot is a real-time 3D rendering and animation application for Windows and macOS used by industrial designers and product photographers. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About KeyShot
 
-KeyShot is a real-time 3D rendering and animation software used by product designers and industrial designers worldwide. It features physics-based materials, HDRI lighting, and a photorealistic render engine with an incredibly fast workflow that produces studio-quality images.
+KeyShot is a real-time 3D rendering and animation application for Windows and macOS used by industrial designers and product photographers. Import CAD and 3D files, apply physically accurate materials, set up lighting environments, and produce photorealistic product renders in minutes. KeyShot's real-time preview and material library make it the standard tool for product visualization workflows.
 
 ---
 
 ## ❌ Problem: KeyShot is hard to access
 
-- **High License Cost** — Professional pricing makes it inaccessible for students and hobbyists
-- **Import Dependency** — Requires models from other CAD or 3D applications; no modeling tools
-- **GPU Requirements** — GPU rendering mode requires modern NVIDIA or AMD hardware
-- **Subscription Pressure** — Perpetual license maintenance fees incentivize subscription
+- **Commercial License** — Professional pricing for rendering software
+- **Hardware Demands** — Ray-traced rendering benefits significantly from powerful CPU and GPU
+- **Specialized Use** — Most valuable in product design and industrial design workflows
+- **Learning Curve** — Achieving photorealistic results requires understanding of lighting and materials
 
 ---
 
@@ -121,7 +121,7 @@ KeyShot is a real-time 3D rendering and animation software used by product desig
 
 ---
 
-**KeyShot Free Installer** — KeyShot is a real-time 3D rendering and animation software used by product designers and industrial designers worldwide. Install without internet connection today!
+**KeyShot Free Installer** — KeyShot is a real-time 3D rendering and animation application for Windows and macOS used by industrial designers and product photographers. Install without internet connection today!
 
 <div align="center">
 
